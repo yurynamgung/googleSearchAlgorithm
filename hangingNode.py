@@ -1,3 +1,4 @@
+##Yury Namgung and Hannah Davalos: Numerical Linear Algebra
 #reads file into one array
 def readFile(fileName):
     text_file = open(fileName, "r")
